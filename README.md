@@ -1,3 +1,3 @@
 # goit-markup-hw-01
 
-First homework GOIT (HTML) First try in HTML, made layout for landing page (Студия)
+Second homework GOIT (HTML, CSS), made layout for second page (Портфолио), created styles.css file for both pages.
