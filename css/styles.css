@@ -68,6 +68,7 @@ letter-spacing: 0.02em;
     text-transform: uppercase;
 }
 .hero-button {
+    font-family: inherit;
     width: 200px;
     height: 50px;
     background-color: var(--accent-clr);
@@ -82,6 +83,10 @@ letter-spacing: 0.02em;
     text-align: center;
     letter-spacing: 0.06em;
     cursor: pointer;
+}
+.hero-button:focus,
+.hero-button:hover {
+    background-color: #188CE8;
 }
 .hidden-tittle {
         position: absolute;
@@ -138,6 +143,7 @@ text-align: center
 }
 
 .btn {
+    font-family: inherit;
     color: currentColor;
     background-color: #F5F4FA;
     width: 128px;
