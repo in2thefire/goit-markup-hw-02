@@ -1,2 +1,2 @@
 # goit-markup-hw-01
-HW-01 Go-IT
+HW-02 Go-IT
