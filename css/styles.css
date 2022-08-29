@@ -1,0 +1,100 @@
+:root {
+    /* Colors */
+
+    --accent-color: #2196F3;
+    --main-color: #757575;
+    --second-color: #212121;
+    --white: #FFFFFF;
+    --black: #000000;
+}
+
+/* General rules */
+
+body {
+    color: var(--main-color);
+}
+
+.link {
+    text-decoration: none;
+}
+
+.link:hover,
+.link:focus {
+    color: var(--accent-color);
+}
+
+.list {
+    list-style: none;
+}
+
+/* Header */
+
+
+
+.logo {
+    color: var(--accent-color);
+    text-decoration: none;
+
+}
+
+.header-logo {
+    color: var(--black);
+}
+
+.nav-link {
+    color: var(--second-color);
+}
+
+.contacts-link {
+    color: currentColor;
+}
+
+/* Main */
+
+/* Hero section */
+.hero {
+    background-color: #2F303A;
+}
+
+.hero-tittle {
+    color: var(--white);
+}
+
+/* Features section */
+
+.features-tittle {
+    color: var(--second-color);
+}
+
+/* Occupation section */
+
+.occupation-tittle {
+    color: var(--second-color)
+}
+
+/* Team section */
+
+.team-tittle {
+    color: var(--second-color)
+}
+
+.team-subtittle {
+    color: var(--second-color);
+}
+
+/* Footer */
+.footer {
+    background-color: #2F303A;
+}
+
+.footer-logo {
+    color: var(--white);
+}
+
+.address-link {
+    color: rgba(255, 255, 255, 0.6);
+}
+
+.direction {
+    color: var(--white);
+}
