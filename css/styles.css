@@ -41,6 +41,10 @@ body {
     color: var(--black);
 }
 
+.nav-link.current {
+    color: var(--accent-color);
+}
+
 .nav-link {
     color: var(--second-color);
 }
