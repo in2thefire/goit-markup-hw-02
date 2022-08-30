@@ -64,6 +64,11 @@ body {
     color: var(--white);
 }
 
+.hero-button {
+    color: var(--white);
+    background-color: var(--accent-color);
+}
+
 /* Features section */
 
 .features-tittle {
@@ -84,6 +89,24 @@ body {
 
 .team-subtittle {
     color: var(--second-color);
+}
+
+
+/* Portfolio page */
+
+/* Filter-buttons */
+
+.filter-button {
+    background-color: var(--accent-color);
+    color: var(--white);
+}
+
+.gallery-subtittle {
+    color: var(--second-color);
+}
+
+.gallery-text {
+    color: var(--main-color);
 }
 
 /* Footer */
