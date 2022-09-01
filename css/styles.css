@@ -96,6 +96,7 @@ body {
 .hero-button:focus {
     background-color: #188CE8;
     color: var(--white);
+    cursor: pointer;
 }
 
 /* Features section */
@@ -166,6 +167,7 @@ body {
 .filter-button:hover {
     background-color: var(--accent-color);
     color: var(--white);
+    cursor: pointer;
 }
 
 .gallery-subtittle {
